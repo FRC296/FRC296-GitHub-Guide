@@ -1,4 +1,4 @@
-# FRC296 GitHub Guide
+# FRC296 GitHub Workshops
 ![](https://github.com/FRC296/FRC296-GitHub-Overview/blob/main/Images/296%20Logo%20-%20Small%20Shield%20(Back)-1.png)
 
 ## Organization Page Overview
